@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=mallsjr" alt=”mallsjr” />
+![](https://komarev.com/ghpvc/?username=mallsjr)
